@@ -4621,3 +4621,8 @@ address p {
 .mailchimp label {
     font-weight: normal;
 }
+
+.think-bold {
+    margin: 30px;
+    color: #fff;
+}
